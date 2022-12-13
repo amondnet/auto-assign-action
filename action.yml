@@ -1,6 +1,6 @@
-name: 'Auto Assign Action'
+name: 'Auto Assign Team'
 description: 'Add reviewers to pull requests when pull requests are opened.'
-author: 'Kentaro Matsushita'
+author: 'Minsu Lee'
 inputs:
   repo-token:
     description: 'A token for the repo'
